@@ -1,4 +1,4 @@
-package com.tianshuiyue.TcpIp;
+package tcp.com.hw2;
 
 import javax.swing.JFrame;
 
